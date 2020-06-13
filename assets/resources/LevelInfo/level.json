@@ -1,0 +1,59 @@
+{ 
+    "ap":1,
+    "gp":2,
+    "levelSeqInfo": [{
+        "level": 1,
+        "activityCount": 4,
+        "allotedTime":40,
+        "roundSeq": [
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12}
+        ]
+    },
+    {
+        "level": 2,
+        "activityCount": 4,
+        "allotedTime":50,
+        "roundSeq": [
+            {"seriesType": [2], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [2], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12}
+        ]
+    },
+  {
+        "level": 3,
+        "activityCount": 4,
+        "allotedTime":60,
+        "roundSeq": [
+            {"seriesType": [2], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1], "oddNum": 2,  "numCount": 12},
+            {"seriesType": [2], "oddNum": 1,  "numCount": 12}
+        ]
+    },
+{       "level":4,
+        "activityCount": 4,
+        "allotedTime":120,
+        "roundSeq": [
+            {"seriesType": [2,1], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [1,2], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [2, 2], "oddNum": 2,  "numCount": 12},
+            {"seriesType": [1, 1], "oddNum": 1,  "numCount": 12}
+        ]
+    },
+{
+        "level": 5,
+        "activityCount": 4,
+        "allotedTime":120,
+        "roundSeq": [
+            {"seriesType": [2, 1], "oddNum": 2,  "numCount": 12},
+            {"seriesType": [1, 2], "oddNum": 1,  "numCount": 12},
+            {"seriesType": [2, 2, 2], "oddNum": 2,  "numCount": 12},
+            {"seriesType": [1, 1, 2], "oddNum": 1,  "numCount": 12}
+        ]
+    }
+]
+}
